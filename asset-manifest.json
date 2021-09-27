@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/orctesting/static/css/main.7f542b13.chunk.css",
+    "main.js": "/orctesting/static/js/main.7189ecba.chunk.js",
+    "main.js.map": "/orctesting/static/js/main.7189ecba.chunk.js.map",
+    "runtime-main.js": "/orctesting/static/js/runtime-main.8c5672e0.js",
+    "runtime-main.js.map": "/orctesting/static/js/runtime-main.8c5672e0.js.map",
+    "static/js/2.d4fa74f4.chunk.js": "/orctesting/static/js/2.d4fa74f4.chunk.js",
+    "static/js/2.d4fa74f4.chunk.js.map": "/orctesting/static/js/2.d4fa74f4.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/orctesting/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/orctesting/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/orctesting/index.html",
+    "static/css/main.7f542b13.chunk.css.map": "/orctesting/static/css/main.7f542b13.chunk.css.map",
+    "static/js/2.d4fa74f4.chunk.js.LICENSE.txt": "/orctesting/static/js/2.d4fa74f4.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/orctesting/static/media/1.75f03515.png",
+    "static/media/reset.css": "/orctesting/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c5672e0.js",
+    "static/js/2.d4fa74f4.chunk.js",
+    "static/css/main.7f542b13.chunk.css",
+    "static/js/main.7189ecba.chunk.js"
+  ]
+}
